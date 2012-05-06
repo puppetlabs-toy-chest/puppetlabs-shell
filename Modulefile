@@ -1,0 +1,8 @@
+name 'puppetlabs-shell'
+version '0.0.1'
+source 'git://github.com/puppetlabs/puppetlabs-shell.git'
+author 'puppetlabs'
+license 'ASL 2.0'
+summary 'Puppet Shell'
+description 'A shell for traversing the Puppet resource abstraction layer'
+project_page 'https://forge.puppetlabs.com/puppetlabs/shell'
