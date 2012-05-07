@@ -1,4 +1,5 @@
 require 'puppet/face'
+require 'puppet/util/interactive_shell'
 
 Puppet::Face.define(:shell, '0.0.1') do
   copyright "Puppet Labs", 2012
